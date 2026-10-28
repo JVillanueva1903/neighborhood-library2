@@ -1,4 +1,4 @@
-final class Book {
+class Book {
     public Book(int i, String number, String s) {
 
     }
